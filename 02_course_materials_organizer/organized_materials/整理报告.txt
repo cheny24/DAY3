@@ -1,0 +1,37 @@
+本次执行的是: copy
+整理文件总数: 24
+
+每个文件的来源与去向：
+  sample_materials\config.json -> organized_materials\data\config.json
+  sample_materials\example.c -> organized_materials\code\example.c
+  sample_materials\Hello.java -> organized_materials\code\Hello.java
+  sample_materials\lecture_03.key -> organized_materials\slides\lecture_03.key
+  sample_materials\main.cpp -> organized_materials\code\main.cpp
+  sample_materials\NumPy数组练习.ipynb -> organized_materials\homework\NumPy数组练习.ipynb
+  sample_materials\Python第01讲_作业说明.pdf -> organized_materials\homework\Python第01讲_作业说明.pdf
+  sample_materials\Python第01讲_基础语法.pptx -> organized_materials\slides\Python第01讲_基础语法.pptx
+  sample_materials\Python第01讲_课堂代码.py -> organized_materials\code\Python第01讲_课堂代码.py
+  sample_materials\Python第02讲_数据结构.pptx -> organized_materials\slides\Python第02讲_数据结构.pptx
+  sample_materials\README.pdf -> organized_materials\documents\README.pdf
+  sample_materials\任务清单.txt -> organized_materials\homework\任务清单.txt
+  sample_materials\学生问题记录.md -> organized_materials\documents\学生问题记录.md
+  sample_materials\实验报告.docx -> organized_materials\homework\实验报告.docx
+  sample_materials\实验数据.xlsx -> organized_materials\homework\实验数据.xlsx
+  sample_materials\成绩样例.csv -> organized_materials\data\成绩样例.csv
+  sample_materials\截图2.gif -> organized_materials\images\截图2.gif
+  sample_materials\截图_环境配置.png -> organized_materials\images\截图_环境配置.png
+  sample_materials\未分类文件.xyz -> organized_materials\others\未分类文件.xyz
+  sample_materials\架构图.jpg -> organized_materials\images\架构图.jpg
+  sample_materials\流程图.jpeg -> organized_materials\images\流程图.jpeg
+  sample_materials\设计文档.docx -> organized_materials\documents\设计文档.docx
+  sample_materials\课后练习.ipynb -> organized_materials\homework\课后练习.ipynb
+  sample_materials\课程通知.txt -> organized_materials\documents\课程通知.txt
+
+各类别文件数量：
+  data: 2
+  code: 4
+  slides: 3
+  homework: 6
+  documents: 4
+  images: 4
+  others: 1
